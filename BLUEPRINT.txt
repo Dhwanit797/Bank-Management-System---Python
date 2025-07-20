@@ -1,0 +1,9 @@
+### Ideas - 
+
+bank managment system-
+
+        <A> Components - 
+            1> Account holder info (name,password,age,city)
+            2> Account holder bank balance (name,balance)
+        #### 3> Account holder loan / debt info (name,loan/debt,years)
+            4> User controls (check,withdraw,deposit)
